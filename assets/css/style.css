@@ -1,0 +1,16 @@
+body{
+  
+	text-align: center;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+.jumbotron{ 
+  background-color: white;
+}
+img{
+  margin: 4px;
+}
